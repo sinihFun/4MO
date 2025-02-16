@@ -5,9 +5,9 @@ html {
     background-color: black;
     color: #333;
   }
-h1 {text-align: center;}
-p {size: 200ch;}
+h1 {text-align: center; font-size: 75px;}
 img {display: block;  margin: 0 auto;}
+.mainpagetxt {text-align: center; font-size: 50px;}
 /*body {
     width: auto;
     height: 1200px;
@@ -16,3 +16,11 @@ img {display: block;  margin: 0 auto;}
     padding: 0 20px 20px 20px;
     border: 5px solid black;
   }*/
+head {
+    width: auto;
+    height: 1200px;
+    margin: 100px 0 0 0;
+    background-color: gray;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
