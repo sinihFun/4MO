@@ -31,6 +31,7 @@ header:hover {transform: translate(0, 60px); transition: 500ms; position: fixed;
 .categories {font-size: 40px; margin: 0 20px; list-style-type: none; text-align: left;}
 
 /* base */
+.warn {text-align: center; margin: -50px;}
 .centered {text-align: center;}
 .flexbox {display: flex;}
 h1 {text-align: center; font-size: 75px;}
